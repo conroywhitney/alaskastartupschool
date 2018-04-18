@@ -127,3 +127,19 @@ footer {
   margin-bottom: 50px;
   padding: 0;
 }
+
+@media (max-width: 600px) {
+  .card {
+    margin-right: 0;
+  }
+
+  .carousel-caption {
+    border: 0;
+    height: 100%;
+    top: 0;
+  }
+
+  .carousel-caption h1 {
+    margin-top: 25px;
+  }
+}
