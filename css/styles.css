@@ -23,6 +23,10 @@ footer {
   padding: 10px;
 }
 
+.carousel {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+}
+
 .carousel h2 {
   font-size: 36px;
 }
@@ -72,5 +76,7 @@ footer {
 }
 
 .registration {
+  box-shadow: 0px 5px 35px rgba(0, 0, 0, 0.8);
   margin-bottom: 50px;
+  padding: 0;
 }
