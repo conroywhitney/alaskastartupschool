@@ -102,6 +102,11 @@ footer {
   margin-bottom: 50px;
 }
 
+.error {
+  padding: 100px 0 50px;
+  text-align: center;
+}
+
 .intro {
   padding: 25px 0;
   line-height: 32px;
