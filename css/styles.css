@@ -26,9 +26,8 @@ h4 {
   font-family: 'Varela Round', sans-serif;
 }
 
-/* Add a gray background color and some padding to the footer */
 footer {
-  background-color: #006633;
+  background: #006633 url("../images/chalkboard.jpeg");
   color: #FFF;
   padding: 25px;
 }
@@ -88,9 +87,10 @@ footer {
 }
 
 .carousel-inner img {
-    width: 100%; /* Set width to 100% */
-    margin: auto;
-    min-height: 200px;
+  width: 100%;
+  margin: auto;
+  min-height: 200px;
+  max-height: 400px;
 }
 
 .container {
