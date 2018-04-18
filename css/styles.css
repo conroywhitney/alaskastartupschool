@@ -37,15 +37,33 @@ footer {
   margin-bottom: 25px;
   margin-right: 25px;
   padding: 0;
+  box-shadow: 0px 5px 25px rgba(0, 0, 0, 0.33);
+  border: 0;
 }
 
 .card-block {
-  padding: 10px;
+  background: #006633 url("../images/chalkboard.jpeg");
+  color: #FFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 25px 20px;
 }
 
 .card-footer {
   background: #006633;
   color: #FFF;
+}
+
+.card-subtitle {
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.5);
+  margin: 0;
+}
+
+.card-title {
+  color: #FFF;
+  margin: 0;
 }
 
 .carousel {
