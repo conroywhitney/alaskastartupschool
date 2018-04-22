@@ -86,6 +86,10 @@ footer {
   margin-top: 5px;
 }
 
+.carousel-caption h2 {
+  color: rgba(255, 255, 255, 0.5);
+}
+
 .carousel-inner img {
   width: 100%;
   margin: auto;
