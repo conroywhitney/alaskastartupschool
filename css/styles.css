@@ -51,6 +51,7 @@ footer {
 }
 
 .card-body {
+  line-height: 32px;
   padding: 50px 25px 35px;
 }
 
@@ -100,8 +101,12 @@ footer {
 .carousel-inner img {
   width: 100%;
   margin: auto;
-  min-height: 200px;
+  min-height: 250px;
   max-height: 400px;
+}
+
+.cirriculum h2 {
+  margin-bottom: 25px;
 }
 
 .container {
@@ -132,6 +137,10 @@ footer {
 
 .faq h2 {
   margin-bottom: 25px;
+}
+
+.faq p {
+  margin-bottom: 50px;
 }
 
 .intro {
@@ -179,5 +188,9 @@ footer {
 
   .carousel-caption h1 {
     margin-top: 25px;
+  }
+
+  .registration {
+    margin-right: 0;
   }
 }
