@@ -111,6 +111,10 @@ footer {
   text-align: center;
 }
 
+.faq {
+  padding-top: 100px;
+}
+
 .intro {
   padding: 25px 0;
   line-height: 32px;
